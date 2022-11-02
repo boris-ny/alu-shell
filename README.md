@@ -1,5 +1,5 @@
 
-General
+# General:
 
 What does RTFM mean?
 
@@ -15,7 +15,7 @@ What is the shell prompt
 
 How to use the history (the basics)
 
-Navigation
+## Navigation
 
 What do the commands or built-ins cd, pwd, ls do
 
@@ -35,7 +35,7 @@ What are the characteristics of hidden files and how to list them
 
 What does the command cd - do
 
-Looking Around
+## Looking Around
 
 What do the commands ls, less, file do
 
@@ -43,7 +43,7 @@ How do you use options and arguments with commands
 
 Understand the ls long format and how to display it
 
-A Guided Tour
+## A Guided Tour
 
 What does the ln command do
 
@@ -55,7 +55,7 @@ What is a hard link
 
 What is the difference between a hard link and a symbolic link
 
-Manipulating Files
+## Manipulating Files
 
 What do the commands cp, mv, rm, mkdir do
 
@@ -85,13 +85,13 @@ Keyboard Shortcuts for Bash
 
 Common shortcuts for Bash
 
-LTS
+## LTS
 
 What does LTS mean?
 
 Requirements
 
-General
+## General
 
 Allowed editors: vi, vim, emacs
 
